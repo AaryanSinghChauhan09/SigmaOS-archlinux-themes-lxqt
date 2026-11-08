@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-themes-lxqt"
+name = "sigmaos_archlinux_themes_lxqt"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-themes-lxqt component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-themes-lxqt component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-themes-lxqt"
+name = "sigmaos_archlinux_themes_lxqt"
 path = "src/lib.rs"
